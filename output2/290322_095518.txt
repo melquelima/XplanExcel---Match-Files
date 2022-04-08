@@ -1,0 +1,1 @@
+Execution failed on sql 'select * from A1 Inner join A2 on A1.CPF = A2.CPF': no such table: A1
